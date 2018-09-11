@@ -1,7 +1,7 @@
-#2018 DJU Java Lecture Repository
-##Information
+# 2018 DJU Java Lecture Repository
+## Information
 Exercise Java Lecture
 
-##Detail
-###Week02
+## Detail
+### Week02
 Install Eclipse and learn 'How to use Eclipse'
